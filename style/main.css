@@ -37,6 +37,10 @@ hr {
 	border-top: 2px solid #eee;
 }
 
+i {
+	color: rgb(186, 81, 0);
+}
+
 /*
 Header area
 */
@@ -58,7 +62,7 @@ ul {
 	padding: 0px;
 }
 
-#nav li {
+ul li {
 	display: inline;
 	margin: 20px;
 	font-size: 20px;
