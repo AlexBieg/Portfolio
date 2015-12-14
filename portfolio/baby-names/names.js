@@ -19,7 +19,7 @@ Javascript for babaynames website
 		if(name){
 			var ajax = new XMLHttpRequest();
 			ajax.onload = addData;
-			ajax.open("GET", "http://alexbieg.com/portfolio/getnames.php?name=" + name + "&gender=" + gender);
+			ajax.open("GET", "getnames.php?name=" + name + "&gender=" + gender);
 			ajax.send();
 		}
 		return false;
