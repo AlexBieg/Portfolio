@@ -70,6 +70,7 @@ Javascript for babaynames website
 		}else{
 			document.getElementById("resultsarea").style.display = "none";
 			document.getElementById("errors").innerHTML = "That Name Could Not Be Found With That Gender";
+			console.log(this.responseText);
 		}
 	}
 
