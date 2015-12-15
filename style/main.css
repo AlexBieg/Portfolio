@@ -126,10 +126,10 @@ h2 {
 }
 
 .me {
-	width: 500px;
-	height: 500px;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
 	overflow: hidden;
-	border-radius: 250px;
 	margin: 0px;
 	margin-left: auto;
 	margin-right: auto;
@@ -162,5 +162,11 @@ Media Queries
 
 	h1 {
 		font-size: 150px;
+	}
+
+	.me {
+		width: 500px;
+		height: 500px;
+		border-radius: 250px;
 	}
 }
