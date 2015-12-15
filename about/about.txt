@@ -4,4 +4,4 @@ When I came to The University of Washington I thought that I wanted to be a phys
 ::
 Then I discovered Informatics. It was very similar to Computer Science, but it dealt with people much more. I realized that is what I had been missing. I wanted to write code, and I wanted to do it for people. I did not want to be someone writing code that was only ever used by machines on a server somewhere. I wanted to make something that people could see and use. 
 ::
-That brings up to date. I am still in the Informatics program and I plan to graduate in June of 2017. Thanks for reading.
+That brings us up to date. I am still in the Informatics program and I plan to graduate in June of 2017. Thanks for reading.
