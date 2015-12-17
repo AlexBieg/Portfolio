@@ -30,8 +30,9 @@ hr {
 }
 
 .fa{
-	font-size: 40px;
+	font-size: 70px;
 	color: rgb(186, 81, 0);
+	text-shadow: 10px 10px rgba(10, 10, 10, .6);
 }
 
 /*
@@ -44,8 +45,12 @@ Header area
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    min-height: 200px;
+    min-height: 250px;
     position: relative;
+}
+
+#header h4 {
+	font-size: 40px;
 }
 
 ul {
